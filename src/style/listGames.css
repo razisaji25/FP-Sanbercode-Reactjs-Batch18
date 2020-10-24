@@ -1,0 +1,27 @@
+/* body {
+    background-image: url('../img/pattern.png');
+} */
+
+.judul{
+    margin: 40px;
+    text-align: center;
+}
+.foot{
+    background: black;
+    line-height: 30px;
+}
+.foot h5{
+    color: white;
+    text-align: center;
+}
+
+@media (width: 600px) { 
+    .container {
+        flex-direction: column;
+    }
+
+    .container>div {
+        margin-right: 100px;
+        margin-bottom: 60px;
+    }
+}

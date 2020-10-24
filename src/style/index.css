@@ -1,0 +1,12 @@
+#components-layout-demo-fixed-sider .logo {
+    height: 32px;
+    background: rgba(214, 180, 180, 0.2);
+    margin: 16px;
+  }
+  .site-layout .site-layout-background {
+    background: #fff;
+  }
+
+  .background{
+    background:white;
+  }
